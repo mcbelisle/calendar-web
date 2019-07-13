@@ -1,4 +1,4 @@
-# OI Calendar
+# MB Calendar
 
 Private, encrypted calendar in the cloud using Blockstack
 ![Logo](/public/android-chrome-192x192.png)
@@ -24,8 +24,8 @@ Unfortunately, Google does not let you easily use these events, you need either 
     - Scroll to the bottom
     - Copy the private address of your calendar containing your email address and ends with `basic.ics`
       ![Select3](resources/Screenshot%20from%202019-02-02%2002-11-27.png)
-1. Add to OI Calendar
-    - Open OI Calendar https://cal.openintents.org/
+1. Add to MB Calendar
+    - Open MB Calendar https://cal.openintents.org/
     - Enable your CORS browser plugin
     - Paste the private address into the `Paste url ...` field and press enter
 1. Enjoy YOUR calendar!

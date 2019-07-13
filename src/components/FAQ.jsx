@@ -18,7 +18,7 @@ const FAQs = () => (
 			<Container fluid style={{ textAlign: 'left' }}>
 				<Row>
 					<FAQ q={'How is this calendar different from other cloud calendars?'}>
-						OI Calendar keeps your data private to you! We, OpenIntents, do not
+						MB Calendar keeps your data private to you! We, OpenIntents, do not
 						store or share any user data or analytics. All data generated is
 						stored in each users' own storage buckets, called Gaia Hubs. You as
 						a user have control over your own hub with your Blockstack id.
@@ -29,7 +29,7 @@ const FAQs = () => (
 						Most social media companies are providing you with a free account so
 						that they can sell your information to the highest bidder.
 						Blockstack is different. With Blockstack, YOU control your identity.
-						Neither Blockstack nor the makers of OI Calendar can take the id
+						Neither Blockstack nor the makers of MB Calendar can take the id
 						from you or have access to it.
 					</FAQ>
 				</Row>
@@ -48,7 +48,7 @@ const FAQs = () => (
 						<a href="https://github.com/openintents/calendar-web">
 							the source code here
 						</a>
-						. OI Calendar comes with a friendly open source license.
+						. MB Calendar comes with a friendly open source license.
 						<br />
 						You can even host your own version of the app yourselves.
 						<br />
@@ -80,11 +80,11 @@ const FAQs = () => (
 						On Android, you choose one calendar app from the ones already out
 						there, like Business Calendar, Etar, ..., then install{' '}
 						<a href="https://play.google.com/store/apps/details?id=org.openintents.calendar.sync">
-							OI Calendar-Sync
+							MB Calendar-Sync
 						</a>
-						. OI Calendar-Sync will sync your agenda from your Blockstack
+						. MB Calendar-Sync will sync your agenda from your Blockstack
 						storage to the Android device (on there, in fact, to the Android
-						calendar provider) and vice versa. You will find a OI Calendar-Sync
+						calendar provider) and vice versa. You will find a MB Calendar-Sync
 						account with your Blockstack ID in your Android settings{' '}
 						<em>Accounts</em> that also shows you when the last sync took place,
 						usually, every hour.

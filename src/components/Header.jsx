@@ -14,10 +14,10 @@ const Header = () => {
 						<img
 							className="App-logo"
 							src="/android-chrome-192x192.png"
-							alt="OI Calendar Logo"
+							alt="MB Calendar Logo"
 						/>
 					</a>
-					OI Calendar
+					MB Calendar
 				</Navbar.Brand>
 				<Navbar.Toggle aria-controls="responsive-navbar-nav" />
 				<Navbar.Collapse id="responsive-navbar-nav">
