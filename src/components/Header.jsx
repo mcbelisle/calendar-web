@@ -14,7 +14,7 @@ const Header = () => {
 						<img
 							className="App-logo"
 							src="/android-chrome-192x192.png"
-							alt="OI Calendar Logo"
+							alt="MB Calendar Logo"
 						/>
 					</a>
 					MB Calendar

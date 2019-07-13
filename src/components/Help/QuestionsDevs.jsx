@@ -16,7 +16,8 @@ const QuestionsWeb = () => (
 						parameters for
 						<ul>
 							<li>
-								<em>start</em> Start date in a format that can be parsed by Date.
+								<em>start</em> Start date in a format that can be parsed by
+								Date.
 							</li>
 							<li>
 								<em>end</em> End date in a format that can be parsed by Date.

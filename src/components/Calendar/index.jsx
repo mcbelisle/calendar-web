@@ -197,7 +197,7 @@ class Calendar extends Component {
 			<>
 				For Android, use your favorite calendar app with{' '}
 				<a href="https://play.google.com/store/apps/details?id=org.openintents.calendar.sync">
-					OI Calendar-Sync
+					MB Calendar-Sync
 				</a>
 			</>
 		)

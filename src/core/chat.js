@@ -210,7 +210,7 @@ export class UserSessionChat {
     } else {
       const userData = this.userSession.loadUserData()
       return this.getOTP(userData).then(result => {
-        var deviceDisplayName = userData.username + ' via OI Calendar'
+        var deviceDisplayName = userData.username + ' via MB Calendar'
         console.log(
           'login',
           deviceDisplayName,
@@ -236,7 +236,7 @@ export class UserSessionChat {
     } else {
       const userData = this.userSession.loadUserData()
       return this.createNewRoom(
-        'OI Calendar Reminders',
+        'MB Calendar Reminders',
         'Receive information about events',
         null,
         userData.identityAddress
